@@ -22,6 +22,8 @@ Multiple RFID's
 ##critical issues 
 [logic level questions](https://electronics.stackexchange.com/questions/332150/problem-with-arduino-pro-mini-and-rc522)
 [logic level conversion video](https://www.youtube.com/watch?v=t-yuYasIKtY)
+[Multi-SPI and shift register](http://forum.arduino.cc/index.php?topic=319375.0)
+[Multi SPI sparkfun](https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi)
 
 components:  
 *[Adafruit Feather HUZZAH ESP8266](https://www.adafruit.com/product/2821)*
