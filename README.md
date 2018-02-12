@@ -17,13 +17,23 @@ Multiple RFID's
 [how to power sparkfun tutorial](https://learn.sparkfun.com/tutorials/how-to-power-a-project)
 [arduino power overview](https://www.open-electronics.org/the-power-of-arduino-this-unknown/)
 
+
 [voltage divider](https://www.youtube.com/watch?v=XxLKfAZrhbM)
 [voltage regulator](https://www.youtube.com/watch?v=J66_8P043ko)
+
 ##critical issues 
+[Shift registers](https://learn.sparkfun.com/tutorials/shift-registers)
 [logic level questions](https://electronics.stackexchange.com/questions/332150/problem-with-arduino-pro-mini-and-rc522)
 [logic level conversion video](https://www.youtube.com/watch?v=t-yuYasIKtY)
 [Multi-SPI and shift register](http://forum.arduino.cc/index.php?topic=319375.0)
 [Multi SPI sparkfun](https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi)
+
+[more spi](https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi)
+[more spi with PI](http://www.cupidcontrols.com/2013/12/turn-on-the-spi-lights-spi-output-shift-registers-and-leds/)
+
+## power 
+[running a line to the nano](https://electronics.stackexchange.com/questions/60199/powering-arduino-nano-12volts)
+
 
 components:  
 *[Adafruit Feather HUZZAH ESP8266](https://www.adafruit.com/product/2821)*
