@@ -1,5 +1,28 @@
 # story_objects
 
+THings to figure out: logic level shifters:
+[sparkfun tutorial](https://learn.sparkfun.com/tutorials/bi-directional-logic-level-converter-hookup-guide)
+[another overview](http://deloarts.com/en/hardware/logic-level-shifter/)
+
+
+Shift register[adafruits tutorial](https://learn.adafruit.com/adafruit-arduino-lesson-4-eight-leds)
+
+Multiple RFID's 
+[some video](https://www.youtube.com/watch?v=HmGmFknAIqc)
+
+[General RFID](http://deloarts.com/en/scripts/arduino/rfid/)
+
+[general power output arduinot](http://www.electricrcaircraftguy.com/2014/02/arduino-power-current-and-voltage.html)_
+
+[how to power sparkfun tutorial](https://learn.sparkfun.com/tutorials/how-to-power-a-project)
+[arduino power overview](https://www.open-electronics.org/the-power-of-arduino-this-unknown/)
+
+[voltage divider](https://www.youtube.com/watch?v=XxLKfAZrhbM)
+[voltage regulator](https://www.youtube.com/watch?v=J66_8P043ko)
+##critical issues 
+[logic level questions](https://electronics.stackexchange.com/questions/332150/problem-with-arduino-pro-mini-and-rc522)
+[logic level conversion video](https://www.youtube.com/watch?v=t-yuYasIKtY)
+
 components:  
 *[Adafruit Feather HUZZAH ESP8266](https://www.adafruit.com/product/2821)*
 >Measures 2.0" x 0.9" x 0.28" (51mm x 23mm x 8mm) without headers soldered in  
