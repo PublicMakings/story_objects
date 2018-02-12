@@ -1,6 +1,6 @@
 # story_objects
 
-components:
+components:  
 *[Adafruit Feather HUZZAH ESP8266](https://www.adafruit.com/product/2821)*
 >Measures 2.0" x 0.9" x 0.28" (51mm x 23mm x 8mm) without headers soldered in  
 Light as a (large?) feather - 9.7 grams  
@@ -31,3 +31,9 @@ Card types supported: Mifare1  S50, Mifare1 S70, Mifare UltraLight, Mifare Pro, 
 *Vellman amp*
 [data sheet](https://www.velleman.eu/downloads/29/vma408_a4v01.pdf)
 
+[3.7 watt amp](https://www.adafruit.com/product/987)
+>Output Power: 3.7W at 3Ω, 10% THD, 1.7W at 8Ω, 10% THD, with 5V Supply  
+Passes EMI limit unfiltered with up to 12 inches (30 cm) of speaker cable  
+High 83dB PSRR at 217Hz  
+Five pin-selectable gains: 6dB, 9dB, 12dB, 15dB and 18dB.  
+Low current draw: 2mA quiescent and 10uA in shutdown mode2
