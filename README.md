@@ -10,7 +10,18 @@ Shift register[adafruits tutorial](https://learn.adafruit.com/adafruit-arduino-l
 RFIDs
 (some guys instrutable with code)[http://www.instructables.com/id/Access-Control-Using-RFIDRC522-and-Atmega32-MCU/]
 
-Multiple RFID's 
+[goodlife1](http://www.goodliffe.org.uk/arduino/shift.php)
+[goodlife2](http://www.goodliffe.org.uk/arduino/nfc_rfid_rc522.php) *******
+
+[Raspberry Pi setup](https://pimylifeup.com/raspberry-pi-rfid-rc522/) *****
+
+Power bus and the [trinket](https://forum.arduino.cc/index.php?topic=399562.0)
+
+[Shift register](https://blog.adafruit.com/2016/07/25/use-shift-registers-to-create-more-inputs-in-your-next-arduino-project-arduinomonday/)
+
+[10000 year shift register](https://www.youtube.com/watch?v=juoM7VhXQDM)
+
+Multiple RFID's   
 [some video](https://www.youtube.com/watch?v=HmGmFknAIqc)
 
 [General RFID](http://deloarts.com/en/scripts/arduino/rfid/)
