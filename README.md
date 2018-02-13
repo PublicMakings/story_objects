@@ -8,7 +8,7 @@ THings to figure out: logic level shifters:
 Shift register[adafruits tutorial](https://learn.adafruit.com/adafruit-arduino-lesson-4-eight-leds)
 
 RFIDs
-(some guys instrutable with code)[http://www.instructables.com/id/Access-Control-Using-RFIDRC522-and-Atmega32-MCU/]
+[some guys instrutable with code](http://www.instructables.com/id/Access-Control-Using-RFIDRC522-and-Atmega32-MCU/)
 
 [goodlife1](http://www.goodliffe.org.uk/arduino/shift.php)
 [goodlife2](http://www.goodliffe.org.uk/arduino/nfc_rfid_rc522.php) *******
@@ -43,7 +43,22 @@ Multiple RFID's
 [Multi SPI sparkfun](https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi)
 
 [more spi](https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi)
-[more spi with PI](http://www.cupidcontrols.com/2013/12/turn-on-the-spi-lights-spi-output-shift-registers-and-leds/)
+[more spi with PI](http://www.cupidcontrols.com/2013/12/turn-on-the-spi-lights-spi-output-shift-registers-and-leds/)  
+[rough reddit code](https://www.reddit.com/r/arduino/comments/4s6yrj/running_multiple_rc522_rfid_readers/)
+
+
+## rasp PI
+[multiple connections](https://www.raspberrypi.org/forums/viewtopic.php?t=70756)
+[quick and dirty](http://bsd.ee/~hadara/blog/?p=1017)
+
+## useful videos and links
+[two with logic level conversion](https://www.youtube.com/watch?v=HmGmFknAIqc)
+[counter proposal from stackexchange](https://arduino.stackexchange.com/questions/18313/issue-sharing-miso-with-multiple-rc522-rfid-readers/43929)******  
+[Sunfounder snippet](https://www.sunfounder.com/forum/multiple-sunfounder-rfid-rc522-readers-on-one-arduino-mega)
+[angry arduino forum???](https://forum.arduino.cc/index.php?topic=428898.0)
+
+## tangents
+[i2c](https://www.youtube.com/watch?v=RPHP4fAisz8&t=1s)
 
 ## power 
 [running a line to the nano](https://electronics.stackexchange.com/questions/60199/powering-arduino-nano-12volts)
