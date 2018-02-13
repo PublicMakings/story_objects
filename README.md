@@ -7,6 +7,9 @@ THings to figure out: logic level shifters:
 
 Shift register[adafruits tutorial](https://learn.adafruit.com/adafruit-arduino-lesson-4-eight-leds)
 
+RFIDs
+(some guys instrutable with code)[http://www.instructables.com/id/Access-Control-Using-RFIDRC522-and-Atmega32-MCU/]
+
 Multiple RFID's 
 [some video](https://www.youtube.com/watch?v=HmGmFknAIqc)
 
