@@ -4,6 +4,9 @@ THings to figure out: logic level shifters:
 [sparkfun tutorial](https://learn.sparkfun.com/tutorials/bi-directional-logic-level-converter-hookup-guide)
 [another overview](http://deloarts.com/en/hardware/logic-level-shifter/)
 
+# okay these links are curcial & probably redundant
+https://arduino.stackexchange.com/questions/18313/issue-sharing-miso-with-multiple-rc522-rfid-readers/43929
+https://pimylifeup.com/raspberry-pi-rfid-rc522/
 
 Shift register[adafruits tutorial](https://learn.adafruit.com/adafruit-arduino-lesson-4-eight-leds)
 
